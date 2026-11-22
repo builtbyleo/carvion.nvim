@@ -12,7 +12,7 @@ local colors = {
 }
 
 palette.dark = util.deep_merge(colors, {
-  bg = "#101010",
+  bg = "#0A0A0A",
   fg = "#E0E0E0",
 })
 
